@@ -36,7 +36,7 @@
 </details>
 
 [website]: https://dmitriikechin.github.io/portfolio/
-[mail]: Dmitrii.Kechin@gmail.com
+[mail]: https://Dmitrii.Kechin@gmail.com
 [linkedin]: https://linkedin.com/in/dmitrii-kechin
 [telegram]: https://t.me/Dimitrius_Red
 [instagram]: https://www.instagram.com/dimitrius_photo
